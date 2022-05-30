@@ -6,7 +6,7 @@ It is page with a list of products /caravans/.
 The page contains:
 - Header, Layout
 - Filters
-  - Slider for price
+  - Price Range slider
   - Caranvas type - multiple select [Campervan, Intergrated, BuiltIn , Alcove]
   - Instant booking - simple toggle [true / false]
 - List of caravans
